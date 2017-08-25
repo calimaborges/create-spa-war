@@ -1,4 +1,4 @@
-# warify
+# create-spa-war
 
 Create war for single page applications for Java EE 6 compliant servers.
 
