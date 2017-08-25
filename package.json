@@ -1,5 +1,5 @@
 {
-  "name": "@rogue-zero/create-spa-war",
+  "name": "create-spa-war",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
