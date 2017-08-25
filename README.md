@@ -7,21 +7,6 @@ Create war for single page applications for Java EE 6 compliant servers.
 * Create war file without java and it's build systems
 * Includes Java EE filter that always redirects to `index.html` if file does not exist. This allows routing without `hash` (`#`).
 
-## Installation
-
-### yarn
-
-```
-yarn add create-spa-war --dev
-```
-
-### npm
-
-```
-npm install create-spa-war --save-dev
-```
-
-
 ## Usage
 
 ### yarn create
