@@ -1,6 +1,6 @@
 {
   "name": "create-spa-war",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "bin": "./index.js",
   "dependencies": {
-    "@rogue-zero/warify": "^0.1.6",
+    "@rogue-zero/warify": "^0.1.13",
     "chalk": "^2.1.0"
   }
 }

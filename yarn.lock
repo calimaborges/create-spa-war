@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@rogue-zero/warify@^0.1.6":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@rogue-zero/warify/-/warify-0.1.6.tgz#cdbc18229845c17b68015c24f0077ff22617e051"
+"@rogue-zero/warify@^0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@rogue-zero/warify/-/warify-0.1.13.tgz#d8ec453c97bbca9c21677cd07f958a9dbd27f722"
   dependencies:
     archiver "^2.0.0"
     fs-extra "^4.0.1"
