@@ -1,0 +1,11 @@
+{
+  "name": "create-spa-war",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
