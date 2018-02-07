@@ -3,7 +3,7 @@
 // warify should create a static folder inside war-template and put all the content from the informed folder inside it
 const chalk = require("chalk");
 const args = process.argv.slice(2);
-const warify = require("@rogue-zero/warify");
+const warify = require("warify");
 
 const log = console.log;
 
